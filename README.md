@@ -67,5 +67,6 @@ This project provided valuable insight into robotic motion planning and the fund
 
 ## Credits
 Special thanks to my lecturer **[Huanyu Li](https://www.linkedin.com/in/huanyu-li-457590268/)** and student assistant **[Shu Xiao](https://www.linkedin.com/in/shu-xiao-a74342133/)** for their guidance and support throughout this project.
+ChatGPT was used to assit me with setting up the code correctly in python in order to execute the sector search pattern as I designed it.
 
 
